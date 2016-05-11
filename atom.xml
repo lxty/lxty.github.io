@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-11T07:25:52.490Z</updated>
+  <updated>2016-05-11T07:59:01.079Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>依然在作死的第一篇</title>
+    <link href="http://yoursite.com/2016/05/11/%E4%BE%9D%E7%84%B6%E5%9C%A8%E4%BD%9C%E6%AD%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2016/05/11/依然在作死的第一篇/</id>
+    <published>2016-05-11T07:37:32.000Z</published>
+    <updated>2016-05-11T07:59:01.079Z</updated>
+    
+    <content type="html">&lt;p&gt;接触个人博客，已经有5-6年的时间了，期间用过wordpress和国内的一些博客提供商，包括间书，但是都没有动力写下去，一开始接触国内的博客，觉得不够高大上，然后就转了wordpress，但是wordpress的主题最让我头疼……因为这个破主题不是太臃肿就是不符合我的审美。并且我经常忘记给我的主机VPS续费，等我想起来写博客的时候发现……主机特么已经欠费了。我觉得我也是拖延症晚期了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;为了满足我这个拖延症晚期的人……只好找个不用续费，不用调试的东西来写博客吧，一开始接触过farbox，但是发现这东西特么竟然收费了！！（明明是穷！找什么借口！）只好毙了他！&lt;/p&gt;
+&lt;p&gt;总之，结果是我折腾了wordpress和farbox之后，最后选中了hexo。作为选择困难症的我，当真是太难得了。其实主要原因是，在一个突然的深夜，睡不着！在一顿虐待我的电脑之后……才有的这个想法。&lt;/p&gt;
+&lt;p&gt;但愿……我这个人以后不会忘记这个博客吧，谨记搭建起来的第一天！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o701nwsgd.bkt.clouddn.com/67e93f71gw1ehg7w25zpdj211y0lcdn8.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接触个人博客，已经有5-6年的时间了，期间用过wordpress和国内的一些博客提供商，包括间书，但是都没有动力写下去，一开始接触国内的博客，觉得不够高大上，然后就转了wordpress，但是wordpress的主题最让我头疼……因为这个破主题不是太臃肿就是不符合我的审美。并且我经常忘记给我的主机VPS续费，等我想起来写博客的时候发现……主机特么已经欠费了。我觉得我也是拖延症晚期了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="作死" scheme="http://yoursite.com/tags/%E4%BD%9C%E6%AD%BB/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
