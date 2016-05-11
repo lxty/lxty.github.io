@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>听雨</title>
+  <subtitle>雨打芭蕉，听雨竹楼上。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-05-11T05:09:38.217Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>听雨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>holle word</title>
+    <link href="http://yoursite.com/2016/05/11/holle-word/"/>
+    <id>http://yoursite.com/2016/05/11/holle-word/</id>
+    <published>2016-05-11T05:09:38.000Z</published>
+    <updated>2016-05-11T05:09:38.217Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
